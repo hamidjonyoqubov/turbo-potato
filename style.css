@@ -4,13 +4,14 @@
     align-items: center;
     display: flex;
     justify-content: space-around;
-    background-image: url(Rectangle\ 29.png);
+    background-image: url(/turbo-potato/img/Rectangle\ 29.png);
     background-size: cover;
-    margin-top: 1000px;
-    margin-left: 300px;
+    margin-top: 1300px;
+    margin-left: 343px;
 }
 
 footer {
+    margin: auto;
     width: 1200px;
     height: 300px;
     background-color: #1B1C31;
