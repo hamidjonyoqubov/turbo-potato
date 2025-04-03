@@ -1,5 +1,4 @@
-
-.AZIZLEGION{
+.AZIZLEGION {
     width: 1200px;
     height: 400px;
     align-items: center;
@@ -7,9 +6,11 @@
     justify-content: space-around;
     background-image: url(Rectangle\ 29.png);
     background-size: cover;
-
+    margin-top: 1000px;
+    margin-left: 300px;
 }
-footer{
+
+footer {
     width: 1200px;
     height: 300px;
     background-color: #1B1C31;
@@ -18,9 +19,11 @@ footer{
     align-items: center;
 
 }
-.aza{
+
+.aza {
     width: 350px;
 }
+
 header {
     width: 1200px;
     height: 58px;
@@ -168,10 +171,10 @@ header {
 main {
     width: 1200px;
     height: 58px;
-  
+
     margin: auto;
     margin-top: 90px;
-  
+
 }
 
 .img1 {
@@ -377,12 +380,13 @@ main {
     gap: 12px;
     background: rgba(255, 255, 255, 0.01);
     backdrop-filter: blur(36px)
-
 }
-.konbesh{
+
+.konbesh {
     font-size: 14px;
     padding-top: 10px;
 }
-.hamma{
+
+.hamma {
     margin-top: -5px;
 }
