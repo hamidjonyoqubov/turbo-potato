@@ -8,9 +8,12 @@ header {
     h3 {
         margin-left: 20px;
     }
+
+    border: 0;
 }
 
 .box1 {
+    border: 0;
     display: flex;
     width: 400px;
     margin-left: 200px;
@@ -24,6 +27,7 @@ header {
 }
 
 .box2 {
+    border: 0;
     display: flex;
     margin-left: 310px;
 
@@ -36,6 +40,7 @@ header {
 }
 
 .box3 {
+    border: 0;
     width: 100px;
     height: 58px;
 }
@@ -46,9 +51,11 @@ header {
     border: 1px solid black;
     margin: auto;
     display: flex;
+    border: 0;
 }
 
 .box5 {
+    border: 0;
     width: 380px;
     height: 580px;
     margin-left: 20px;
@@ -68,16 +75,20 @@ header {
 }
 
 .box6 {
+    border: 0;
     margin-top: 30px;
+
     img {
         margin-top: 20px;
     }
+
     p {
         width: 300px;
     }
 }
 
 .box8 {
+    border: 0;
     display: flex;
 }
 
@@ -92,31 +103,263 @@ header {
     margin-left: 90px;
     margin-top: -20px;
 }
-.rasmm1{
+
+.rasmm1 {
     height: 320px;
 }
-.box10{
+
+.box10 {
     width: 440px;
     height: 580px;
     /* border: 1px solid black; */
     margin-left: 20px;
 }
-.box11{
+
+.box11 {
     background-color: #C2EAFF;
     width: 410px;
     height: 540px;
     margin-top: 32px;
     background-image: url('./img/image\ 58.png');
-    img{
+
+    img {
         width: 300px;
         margin-top: 410px;
         margin-left: 200px;
     }
 }
-.box12{
+
+.box12 {
     width: 1200px;
     height: auto;
     margin: auto;
     text-align: center;
     border: 1px solid black;
+    border: 0;
+}
+
+
+
+
+
+main {
+    width: 1200px;
+    height: 58px;
+  
+    margin: auto;
+    margin-top: 90px;
+  
+}
+
+.img1 {
+    width: 1000px;
+    margin-top: 100px;
+}
+
+.bootom {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.big {
+    z-index: 4;
+    width: 70px;
+    height: 70px;
+    top: 1079px;
+    left: -1px;
+
+    background: rgba(207, 207, 207, 1);
+
+}
+
+.smal {
+    z-index: 3;
+    background: rgba(207, 207, 207, 1);
+    width: 33px;
+    height: 33px;
+    top: 1149px;
+    left: 1379px;
+    margin-top: px;
+    margin-left: 70px;
+
+
+
+}
+
+.mini {
+    z-index: 4;
+    width: 20px;
+    height: 23px;
+    top: 1126px;
+    left: 1346px;
+    background: rgba(207, 207, 207, 1);
+    margin-left: 103px;
+    margin-top: -56px;
+
+
+}
+
+.one {
+    margin-top: 130px;
+    margin-left: 30px;
+
+}
+
+.key {
+    display: flex;
+}
+
+.key1 {
+    width: 159px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+
+.h31 {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.p1 {
+    font-size: 12px;
+    margin-top: -14px;
+    font-weight: 300;
+}
+
+.belgi {
+    margin-top: 400px;
+    display: flex;
+}
+
+.h120 {
+    font-size: 36px;
+}
+
+.p2 {
+    width: 400px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.belgi1 {
+    width: 390px;
+
+}
+
+.belgi2 {
+    margin-left: 100px;
+    margin-left: 220px;
+}
+
+.get {
+    width: 122px;
+    height: 34px;
+    font-size: 15px;
+    border: 0;
+    color: #FFFF;
+
+
+    background: rgba(67, 96, 246, 1);
+
+}
+
+.havur {
+    z-index: 1;
+
+}
+
+.men {
+    z-index: 3;
+    margin-top: -580px;
+    margin-bottom: 37px;
+    margin-left: 40px;
+}
+
+.hi {
+    z-index: 4;
+    width: 224px;
+    margin-top: -470px;
+    margin-left: -50px;
+    height: 93px;
+    top: 154px;
+    left: -52px;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(51px)
+}
+
+.h41 {
+
+    font-size: 14px;
+    margin-left: 10px;
+    padding-top: 15px;
+}
+
+.met {
+    font-size: 13px;
+    margin-left: 10px;
+    font-weight: 300;
+}
+
+.hi2 {
+    width: 224px;
+    height: 93px;
+    margin-top: -30px;
+    margin-left: 370px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(51px)
+}
+
+.ail {
+    width: 115px;
+    height: 146px;
+    top: 344px;
+    left: 266px;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: 20px;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.02);
+    backdrop-filter: blur(39px)
+}
+
+.shad {
+    margin-top: 30px;
+}
+
+.di {
+    font-size: 16.7px;
+    color: #FFFF;
+    margin-top: -4px;
+    font-weight: 500;
+}
+
+.fol {
+    font-size: 15.7px;
+    color: #FFFF;
+    margin-top: -13px;
+    font-weight: 300;
+}
+
+.onbesh {
+    width: 243px;
+    height: 89px;
+    text-align: center;
+    margin-top: -20px;
+    top: 490px;
+    left: 2px;
+    gap: 12px;
+    background: rgba(255, 255, 255, 0.01);
+    backdrop-filter: blur(36px)
+
+}
+.konbesh{
+    font-size: 14px;
+    padding-top: 10px;
+}
+.hamma{
+    margin-top: -5px;
 }
