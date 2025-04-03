@@ -1,0 +1,23 @@
+
+.AZIZLEGION{
+    width: 1200px;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(Rectangle\ 29.png);
+    background-size: cover;
+
+}
+footer{
+    width: 1200px;
+    height: 300px;
+    background-color: #1B1C31;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.aza{
+    width: 350px;
+}
